@@ -1,0 +1,15 @@
+C:\Users\RodrigoPereiradeCarv\POC-API\bin\Debug\net7.0\POC-API.exe
+C:\Users\RodrigoPereiradeCarv\POC-API\bin\Debug\net7.0\POC-API.deps.json
+C:\Users\RodrigoPereiradeCarv\POC-API\bin\Debug\net7.0\POC-API.runtimeconfig.json
+C:\Users\RodrigoPereiradeCarv\POC-API\bin\Debug\net7.0\POC-API.dll
+C:\Users\RodrigoPereiradeCarv\POC-API\bin\Debug\net7.0\POC-API.pdb
+C:\Users\RodrigoPereiradeCarv\POC-API\obj\Debug\net7.0\POC-API.csproj.AssemblyReference.cache
+C:\Users\RodrigoPereiradeCarv\POC-API\obj\Debug\net7.0\POC-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodrigoPereiradeCarv\POC-API\obj\Debug\net7.0\POC-API.AssemblyInfoInputs.cache
+C:\Users\RodrigoPereiradeCarv\POC-API\obj\Debug\net7.0\POC-API.AssemblyInfo.cs
+C:\Users\RodrigoPereiradeCarv\POC-API\obj\Debug\net7.0\POC-API.csproj.CoreCompileInputs.cache
+C:\Users\RodrigoPereiradeCarv\POC-API\obj\Debug\net7.0\POC-API.dll
+C:\Users\RodrigoPereiradeCarv\POC-API\obj\Debug\net7.0\refint\POC-API.dll
+C:\Users\RodrigoPereiradeCarv\POC-API\obj\Debug\net7.0\POC-API.pdb
+C:\Users\RodrigoPereiradeCarv\POC-API\obj\Debug\net7.0\POC-API.genruntimeconfig.cache
+C:\Users\RodrigoPereiradeCarv\POC-API\obj\Debug\net7.0\ref\POC-API.dll
